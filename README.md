@@ -21,7 +21,7 @@ Estas actividades han sido:
 - TrackActivity
 - TrackListActivity
 
-- Tambien se ha implementado una RecyclerViewAdapter, que es lo que pedia tambien el ejercicio.
+Tambien se ha implementado una RecyclerViewAdapter, que es lo que pedia tambien el ejercicio.
 
 //////////////////////////////////////////////////////////////////
 
